@@ -2,3 +2,4 @@ todolist/db.sqlite3
 todolist/todolist/__pycache__/
 todolist/todolists/__pycache__/
 todolist/todolists/migrations/__pycache__/
+todolist/todolists/migrations/0001_initial.py
